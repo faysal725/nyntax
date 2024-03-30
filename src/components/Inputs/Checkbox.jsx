@@ -20,7 +20,7 @@ export default function Checkbox({
       <div className="ml-3 text-xl leading-6">
         <label
           htmlFor={labelName}
-          className="font-medium text-cyan-500 capitalize"
+          className="font-medium text-slate-800 capitalize"
         >
           {title}
         </label>
